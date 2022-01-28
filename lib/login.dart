@@ -28,7 +28,7 @@ class Signin extends StatelessWidget{
               Container(
                 padding: EdgeInsets.symmetric(horizontal: 25),
                 decoration: BoxDecoration(
-                  color: Colors.grey[200],
+                  color: Colors.white[200],
                   borderRadius: BorderRadius.circular(20)
                 ),
                 child: TextFormField(
@@ -47,7 +47,7 @@ class Signin extends StatelessWidget{
               Container(
                 padding: EdgeInsets.symmetric(horizontal: 25),
                 decoration: BoxDecoration(
-                    color: Colors.grey[200],
+                    color: Colors.white[200],
                     borderRadius: BorderRadius.circular(20)
                 ),
                 child: TextFormField(
